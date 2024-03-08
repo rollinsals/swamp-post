@@ -9,6 +9,7 @@ For the curious, Pico-8 is available at [their website](https://www.lexaloffle.c
 
 Notes on Fen Friends Retrospectively. As a game, it is obtuse, somewhat intentionally so, but perhaps to the point of incoherence. The mechanics for the water in the upper left portion of the map was not totally satisfactory and has a lot of potential to be frustrating.  
 
+![This image contains the whole code for the game!](fen.p8.png)
 
 #### Game Page Text
 An adventure swamp dating game. Find and meet 12 swamp denizens, give them gifts to earn their affection, and hand them the Hidden Rose. 
