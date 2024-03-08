@@ -18,6 +18,7 @@ Controls:
  - (Z) Kiss
  - (X) Open/Close Friend Register
 
+How to play:
 - Kiss a friend to give them a gift!
 - Find hedge clippers to cut down vines!
 - Fill empty bottles with cauldrons!
